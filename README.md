@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi, my name is Jose and these are my projects.👋
+
 <!--
 **jPrietoMz/jPrietoMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
